@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-22T15:38:02 IST" name="Suite" finished-at="2024-03-22T15:38:55 IST" duration-ms="52627">
+    <groups>
+    </groups>
+    <test started-at="2024-03-22T15:38:02 IST" name="Test" finished-at="2024-03-22T15:38:55 IST" duration-ms="52627">
+      <class name="com.mystore.testcases.TC_Register_001">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.mystore.testcases.TC_Register_001@1ed6388a]" started-at="2024-03-22T15:38:03 IST" name="setup" finished-at="2024-03-22T15:38:16 IST" duration-ms="13470" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="registercust()[pri:0, instance:com.mystore.testcases.TC_Register_001@1ed6388a]" started-at="2024-03-22T15:38:16 IST" name="registercust" finished-at="2024-03-22T15:38:54 IST" duration-ms="37756" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registercust -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.mystore.testcases.TC_Register_001@1ed6388a]" started-at="2024-03-22T15:38:54 IST" name="teardown" finished-at="2024-03-22T15:38:55 IST" duration-ms="836" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.mystore.testcases.TC_Register_001 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
