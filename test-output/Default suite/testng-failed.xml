@@ -5,7 +5,7 @@
     <classes>
       <class name="com.mystore.testcases.TC_Register_001">
         <methods>
-          <include name="registercust"/>
+          <include name="registercust" invocation-numbers="1 2 3 4 5 6 7"/>
           <include name="setup"/>
           <include name="teardown"/>
         </methods>

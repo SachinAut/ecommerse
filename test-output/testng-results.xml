@@ -1,25 +1,149 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-03-22T15:38:02 IST" name="Suite" finished-at="2024-03-22T15:38:55 IST" duration-ms="52627">
+  <suite started-at="2024-03-23T13:22:39 IST" name="Default suite" finished-at="2024-03-23T13:28:30 IST" duration-ms="350556">
     <groups>
     </groups>
-    <test started-at="2024-03-22T15:38:02 IST" name="Test" finished-at="2024-03-22T15:38:55 IST" duration-ms="52627">
+    <test started-at="2024-03-23T13:22:39 IST" name="Default test" finished-at="2024-03-23T13:28:30 IST" duration-ms="350556">
       <class name="com.mystore.testcases.TC_Register_001">
-        <test-method is-config="true" signature="setup()[pri:0, instance:com.mystore.testcases.TC_Register_001@1ed6388a]" started-at="2024-03-22T15:38:03 IST" name="setup" finished-at="2024-03-22T15:38:16 IST" duration-ms="13470" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.mystore.testcases.TC_Register_001@4a883b15]" started-at="2024-03-23T13:22:39 IST" name="setup" finished-at="2024-03-23T13:23:01 IST" duration-ms="21044" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="registercust()[pri:0, instance:com.mystore.testcases.TC_Register_001@1ed6388a]" started-at="2024-03-22T15:38:16 IST" name="registercust" finished-at="2024-03-22T15:38:54 IST" duration-ms="37756" status="PASS">
+        <test-method signature="registercust(java.lang.String,java.lang.String)[pri:0, instance:com.mystore.testcases.TC_Register_001@4a883b15]" started-at="2024-03-23T13:23:11 IST" name="registercust" data-provider="loginData" finished-at="2024-03-23T13:23:53 IST" duration-ms="41706" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[sachin12257@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[dfsa455]]>
+              </value>
+            </param>
+          </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- registercust -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:com.mystore.testcases.TC_Register_001@1ed6388a]" started-at="2024-03-22T15:38:54 IST" name="teardown" finished-at="2024-03-22T15:38:55 IST" duration-ms="836" status="PASS">
+        <test-method signature="registercust(java.lang.String,java.lang.String)[pri:0, instance:com.mystore.testcases.TC_Register_001@4a883b15]" started-at="2024-03-23T13:23:53 IST" name="registercust" data-provider="loginData" finished-at="2024-03-23T13:24:33 IST" duration-ms="39461" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[sachin1452@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[sdafs455ds]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registercust -->
+        <test-method signature="registercust(java.lang.String,java.lang.String)[pri:0, instance:com.mystore.testcases.TC_Register_001@4a883b15]" started-at="2024-03-23T13:24:33 IST" name="registercust" data-provider="loginData" finished-at="2024-03-23T13:25:12 IST" duration-ms="39567" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[sachin1752@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[sdfs4545]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registercust -->
+        <test-method signature="registercust(java.lang.String,java.lang.String)[pri:0, instance:com.mystore.testcases.TC_Register_001@4a883b15]" started-at="2024-03-23T13:25:12 IST" name="registercust" data-provider="loginData" finished-at="2024-03-23T13:25:52 IST" duration-ms="39700" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[sachin1142@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[thdfs2566]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registercust -->
+        <test-method signature="registercust(java.lang.String,java.lang.String)[pri:0, instance:com.mystore.testcases.TC_Register_001@4a883b15]" started-at="2024-03-23T13:25:52 IST" name="registercust" data-provider="loginData" finished-at="2024-03-23T13:26:32 IST" duration-ms="39606" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[sachin12152@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[dfggdf12555df]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registercust -->
+        <test-method signature="registercust(java.lang.String,java.lang.String)[pri:0, instance:com.mystore.testcases.TC_Register_001@4a883b15]" started-at="2024-03-23T13:26:32 IST" name="registercust" data-provider="loginData" finished-at="2024-03-23T13:27:11 IST" duration-ms="39579" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[sach12545@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[fddsd25464]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registercust -->
+        <test-method signature="registercust(java.lang.String,java.lang.String)[pri:0, instance:com.mystore.testcases.TC_Register_001@4a883b15]" started-at="2024-03-23T13:27:11 IST" name="registercust" data-provider="loginData" finished-at="2024-03-23T13:27:49 IST" duration-ms="38342" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[sachin112545@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[dfdbg5425]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registercust -->
+        <test-method signature="registercust(java.lang.String,java.lang.String)[pri:0, instance:com.mystore.testcases.TC_Register_001@4a883b15]" started-at="2024-03-23T13:27:50 IST" name="registercust" data-provider="loginData" finished-at="2024-03-23T13:28:29 IST" duration-ms="39250" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[sachin125@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[dhsgfb25488]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registercust -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.mystore.testcases.TC_Register_001@4a883b15]" started-at="2024-03-23T13:28:29 IST" name="teardown" finished-at="2024-03-23T13:28:30 IST" duration-ms="1235" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
       </class> <!-- com.mystore.testcases.TC_Register_001 -->
-    </test> <!-- Test -->
-  </suite> <!-- Suite -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
 </testng-results>

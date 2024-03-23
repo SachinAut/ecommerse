@@ -60,6 +60,9 @@ public class RegistrationPage {
 	@FindBy(id="years")
 	WebElement year;
 	
+	//a[@class="logout"]
+	@FindBy(xpath="//a[@class=\"logout\"]")
+	WebElement signout;
 	public void ClickSignIn() {
 		SignInbtn.click();
 	}
@@ -104,7 +107,9 @@ public class RegistrationPage {
 		subbtn.click();
 	}
 	
-	
+	public void SignOut() {
+		signout.click();
+	}
 	
 	
 }

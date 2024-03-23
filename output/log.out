@@ -1,13 +1,112 @@
-2024-03-22 15:38:16,987 INFO  - Url is open
-2024-03-22 15:38:18,594 INFO  - registration page  is open
-2024-03-22 15:38:18,897 INFO  - entered mail id
-2024-03-22 15:38:19,067 INFO  - click on submit
-2024-03-22 15:38:22,167 INFO  - Gender selected
-2024-03-22 15:38:25,673 INFO  - fname entered
-2024-03-22 15:38:28,817 INFO  - Lname entered
-2024-03-22 15:38:31,994 INFO  - passward entered
-2024-03-22 15:38:35,268 INFO  - birth day select
-2024-03-22 15:38:38,461 INFO  - birth month select
-2024-03-22 15:38:41,657 INFO  - Birth year select
-2024-03-22 15:38:51,641 INFO  - click on submit
-2024-03-22 15:38:54,642 INFO  - my account page open
+2024-03-23 13:23:12,041 INFO  - Url is open
+2024-03-23 13:23:13,486 INFO  - registration page  is open
+2024-03-23 13:23:13,889 INFO  - entered mail id
+2024-03-23 13:23:14,013 INFO  - click on submit
+2024-03-23 13:23:17,111 INFO  - Gender selected
+2024-03-23 13:23:20,267 INFO  - fname entered
+2024-03-23 13:23:23,413 INFO  - Lname entered
+2024-03-23 13:23:26,555 INFO  - passward entered
+2024-03-23 13:23:30,396 INFO  - birth day select
+2024-03-23 13:23:33,567 INFO  - birth month select
+2024-03-23 13:23:36,761 INFO  - Birth year select
+2024-03-23 13:23:46,469 INFO  - click on submit
+2024-03-23 13:23:49,470 INFO  - my account page open
+2024-03-23 13:23:50,694 INFO  - sign out 
+2024-03-23 13:23:53,738 INFO  - Url is open
+2024-03-23 13:23:54,604 INFO  - registration page  is open
+2024-03-23 13:23:54,740 INFO  - entered mail id
+2024-03-23 13:23:54,856 INFO  - click on submit
+2024-03-23 13:23:57,959 INFO  - Gender selected
+2024-03-23 13:24:01,117 INFO  - fname entered
+2024-03-23 13:24:04,251 INFO  - Lname entered
+2024-03-23 13:24:07,372 INFO  - passward entered
+2024-03-23 13:24:10,543 INFO  - birth day select
+2024-03-23 13:24:13,725 INFO  - birth month select
+2024-03-23 13:24:16,950 INFO  - Birth year select
+2024-03-23 13:24:26,156 INFO  - click on submit
+2024-03-23 13:24:29,157 INFO  - my account page open
+2024-03-23 13:24:30,183 INFO  - sign out 
+2024-03-23 13:24:33,199 INFO  - Url is open
+2024-03-23 13:24:34,111 INFO  - registration page  is open
+2024-03-23 13:24:34,297 INFO  - entered mail id
+2024-03-23 13:24:34,426 INFO  - click on submit
+2024-03-23 13:24:37,525 INFO  - Gender selected
+2024-03-23 13:24:40,660 INFO  - fname entered
+2024-03-23 13:24:43,784 INFO  - Lname entered
+2024-03-23 13:24:46,889 INFO  - passward entered
+2024-03-23 13:24:50,055 INFO  - birth day select
+2024-03-23 13:24:53,240 INFO  - birth month select
+2024-03-23 13:24:56,397 INFO  - Birth year select
+2024-03-23 13:25:05,655 INFO  - click on submit
+2024-03-23 13:25:08,657 INFO  - my account page open
+2024-03-23 13:25:09,756 INFO  - sign out 
+2024-03-23 13:25:12,809 INFO  - Url is open
+2024-03-23 13:25:13,662 INFO  - registration page  is open
+2024-03-23 13:25:13,808 INFO  - entered mail id
+2024-03-23 13:25:13,981 INFO  - click on submit
+2024-03-23 13:25:17,101 INFO  - Gender selected
+2024-03-23 13:25:20,227 INFO  - fname entered
+2024-03-23 13:25:23,367 INFO  - Lname entered
+2024-03-23 13:25:26,479 INFO  - passward entered
+2024-03-23 13:25:29,621 INFO  - birth day select
+2024-03-23 13:25:32,869 INFO  - birth month select
+2024-03-23 13:25:36,099 INFO  - Birth year select
+2024-03-23 13:25:45,504 INFO  - click on submit
+2024-03-23 13:25:48,505 INFO  - my account page open
+2024-03-23 13:25:49,458 INFO  - sign out 
+2024-03-23 13:25:52,473 INFO  - Url is open
+2024-03-23 13:25:53,400 INFO  - registration page  is open
+2024-03-23 13:25:53,567 INFO  - entered mail id
+2024-03-23 13:25:53,664 INFO  - click on submit
+2024-03-23 13:25:56,763 INFO  - Gender selected
+2024-03-23 13:25:59,896 INFO  - fname entered
+2024-03-23 13:26:03,011 INFO  - Lname entered
+2024-03-23 13:26:06,125 INFO  - passward entered
+2024-03-23 13:26:09,288 INFO  - birth day select
+2024-03-23 13:26:12,454 INFO  - birth month select
+2024-03-23 13:26:15,634 INFO  - Birth year select
+2024-03-23 13:26:24,997 INFO  - click on submit
+2024-03-23 13:26:27,998 INFO  - my account page open
+2024-03-23 13:26:29,071 INFO  - sign out 
+2024-03-23 13:26:32,080 INFO  - Url is open
+2024-03-23 13:26:32,901 INFO  - registration page  is open
+2024-03-23 13:26:33,037 INFO  - entered mail id
+2024-03-23 13:26:33,189 INFO  - click on submit
+2024-03-23 13:26:36,382 INFO  - Gender selected
+2024-03-23 13:26:39,535 INFO  - fname entered
+2024-03-23 13:26:42,661 INFO  - Lname entered
+2024-03-23 13:26:45,772 INFO  - passward entered
+2024-03-23 13:26:48,983 INFO  - birth day select
+2024-03-23 13:26:52,170 INFO  - birth month select
+2024-03-23 13:26:55,389 INFO  - Birth year select
+2024-03-23 13:27:04,653 INFO  - click on submit
+2024-03-23 13:27:07,656 INFO  - my account page open
+2024-03-23 13:27:08,649 INFO  - sign out 
+2024-03-23 13:27:11,660 INFO  - Url is open
+2024-03-23 13:27:12,488 INFO  - registration page  is open
+2024-03-23 13:27:12,636 INFO  - entered mail id
+2024-03-23 13:27:12,787 INFO  - click on submit
+2024-03-23 13:27:15,870 INFO  - Gender selected
+2024-03-23 13:27:19,014 INFO  - fname entered
+2024-03-23 13:27:22,131 INFO  - Lname entered
+2024-03-23 13:27:25,258 INFO  - passward entered
+2024-03-23 13:27:28,415 INFO  - birth day select
+2024-03-23 13:27:31,586 INFO  - birth month select
+2024-03-23 13:27:34,752 INFO  - Birth year select
+2024-03-23 13:27:43,024 INFO  - click on submit
+2024-03-23 13:27:46,026 INFO  - my account page open
+2024-03-23 13:27:46,997 INFO  - sign out 
+2024-03-23 13:27:50,004 INFO  - Url is open
+2024-03-23 13:27:50,859 INFO  - registration page  is open
+2024-03-23 13:27:50,992 INFO  - entered mail id
+2024-03-23 13:27:51,072 INFO  - click on submit
+2024-03-23 13:27:54,153 INFO  - Gender selected
+2024-03-23 13:27:57,276 INFO  - fname entered
+2024-03-23 13:28:00,453 INFO  - Lname entered
+2024-03-23 13:28:03,571 INFO  - passward entered
+2024-03-23 13:28:06,735 INFO  - birth day select
+2024-03-23 13:28:09,899 INFO  - birth month select
+2024-03-23 13:28:13,048 INFO  - Birth year select
+2024-03-23 13:28:22,334 INFO  - click on submit
+2024-03-23 13:28:25,337 INFO  - my account page open
+2024-03-23 13:28:26,250 INFO  - sign out 
